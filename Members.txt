@@ -18,4 +18,12 @@ Simon Beninati
 I am 19 years old and live in Glen Waverkey. I study engineering at Monash University. I am currently studying the unit ENG1003 in which I am now learning how to use GITHUB.
 Role in project: Team Leader
 Preferred branch of engineering: Civil Engineering
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+
+Peter Nomura 
+I am 18 years old and live in Balwyn.
+Role in project: Team coordinator
+Preferred branch of engineering: Mechanical Engineering Student
+>>>>>>> PeterNomura
