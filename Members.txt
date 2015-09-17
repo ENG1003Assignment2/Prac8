@@ -4,3 +4,8 @@ SIMON BENINATI
 PETER NOMURA
 INTAN HUTAMA
 ADAM SLOMOI
+
+Simon Beninati
+I am 19 years old and live in Glen Waverkey. I study engineering at Monash University. I am currently studying the unit ENG1003 in which I am now learning how to use GITHUB.
+Role in project: Team Leader
+Preferred branch of engineering: Civil Engineering
