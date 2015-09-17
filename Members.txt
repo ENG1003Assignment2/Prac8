@@ -5,6 +5,7 @@ PETER NOMURA
 INTAN HUTAMA
 ADAM SLOMOI
 
+<<<<<<< HEAD
 Intan Hutama
  
 I am 18 years old. Taking diploma of engineering(IT) in Monash College.
@@ -12,3 +13,9 @@ I am 18 years old. Taking diploma of engineering(IT) in Monash College.
 Role in project: programmer
  
 Preferred branch of engineering: (e.g. civil, mechanical, etc)
+=======
+Simon Beninati
+I am 19 years old and live in Glen Waverkey. I study engineering at Monash University. I am currently studying the unit ENG1003 in which I am now learning how to use GITHUB.
+Role in project: Team Leader
+Preferred branch of engineering: Civil Engineering
+>>>>>>> origin/master
