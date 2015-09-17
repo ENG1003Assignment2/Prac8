@@ -27,3 +27,8 @@ I am 18 years old and live in Balwyn.
 Role in project: Team coordinator
 Preferred branch of engineering: Mechanical Engineering Student
 >>>>>>> PeterNomura
+
+Adam Slomoi
+I am 19 years old and live in North Caulfield.
+Role in project: Co-team coordinator
+Preferred branch f engineering: Electrical and Computer Systems
